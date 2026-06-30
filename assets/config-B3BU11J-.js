@@ -1,1 +1,0 @@
-const o={authMode:"okta",okta:{domain:"https://integrator-9599747.okta.com",clientId:"0oa14oz53udF8lPx3698",redirectUri:window.location.origin+window.location.pathname},dify:{baseUrl:"omichat-proxy.daigo-shiroma.workers.dev",apiKeys:{rules:"",inquiry:""}}};export{o as c};
